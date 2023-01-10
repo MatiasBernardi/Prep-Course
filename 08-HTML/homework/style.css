@@ -16,3 +16,10 @@ img{
     font-size: 18px;
     margin: 50px;
 }
+
+body{
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/12/dc/42/e3/bk-dolmen-mall.jpg");
+    background-repeat: no-repeat;
+    background-attachment: 100%;
+    background-size: 100% 100%;
+}
